@@ -4,3 +4,5 @@ creds/*
 testUser-Access-Key.ipynb_checkpoints
 .ipynb_checkpoints/*
 AWS/*
+assets/
+s3_assets/
