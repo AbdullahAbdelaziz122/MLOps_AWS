@@ -1,0 +1,6 @@
+test
+creds
+creds/*
+testUser-Access-Key.ipynb_checkpoints
+.ipynb_checkpoints/*
+AWS/*
