@@ -6,3 +6,4 @@ testUser-Access-Key.ipynb_checkpoints
 AWS/*
 assets/
 s3_assets/
+*/.ipynb_checkpoints/*
